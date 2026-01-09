@@ -1,16 +1,36 @@
-## Hi there 👋
+# Isaac Hung | 後端與資料工程師 (Data-Oriented Architect)
 
-<!--
-**HeyaHung1102/HeyaHung1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **專注於工業革命 4.0 浪潮下的資料韌性與流程自動化，將複雜的非線性問題轉化為穩定、可維護的數位解決方案。**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 技術能力 (Technical Skills)
+
+### 📈 資料分析與生態建模 (Data Analysis & Modeling)
+- **Python:** 熟練運用 `pandas` 進行大規模資料清理、統計分析及自動化報表產出。
+- **SQL:** 設計複雜的資料彙總架構與報表型查詢，確保資料在極端環境下的完整性與可視化。
+
+### 🤖 自動化與系統韌性 (Automation & Resilience)
+- **Workflow Automation:** 透過 Python 撰寫高度客製化腳本，將高重複性的行政/技術勞務轉化為低熵值的自動化流程。
+- **Version Control:** 嚴謹執行 **Git / GitHub** 工作流，具備「版本控制式」的思維邏輯，確保專案具備完整回溯性與協作透明度。
+
+---
+
+## 🚀 專案經驗 (Selected Projects)
+
+### 資料分析與報表自動化系統
+- **核心貢獻：** 針對多維度銷售/行為數據，設計非線性資料清理流程。
+- **成效：** 透過 Python 與 SQL 達成定期報表 100% 自動化，大幅提升決策頻率並降低人工誤判風險。
+
+### 內部作業模組化工具
+- **核心貢獻：** 將日常作業拆解為獨立功能的 Python 模組，建立易於維護與擴充的內部工具鏈。
+- **戰略價值：** 實踐「解構與重組」原則，使系統能根據環境壓力快速調整功能，提升組織的適應力。
+
+---
+
+## 🧠 自我說明 (Personal Statement)
+
+我是一位重視**「可讀性」**與**「抗脆弱性」**的開發者。
+- **問題導向：** 習慣從真實世界的「結構洞」出發設計技術解法。
+- **跨域適應：** 致力於在後端工程與資料科學的交界處，累積可落地、具備高度移植性的系統經驗。
+- **終極目標：** 在變動的全球脈絡中，透過技術槓桿確保個人與組織的生態位優勢。
